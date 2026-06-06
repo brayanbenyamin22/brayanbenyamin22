@@ -51,14 +51,18 @@ Full-stack developer behind **BN CODE** — building modern, clean, and function
 ---
 
 ## 📊 STATS
+<div align="center">
+  <img src="https://github-readme-stats-git-main-brayanbenyamin22.vercel.app/api?username=brayanbenyamin22&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-main-brayanbenyamin22.vercel.app/api/top-langs?username=brayanbenyamin22&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" height="180" />
+</div>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brayanbenyamin22&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&bg_color=0a0a1a" />
+<img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brayanbenyamin22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanbenyamin22&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=ffffff&bg_color=0a0a1a" />
+<img height="160em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanbenyamin22&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=brayanbenyamin22&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&background=0a0a1a" />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=brayanbenyamin22&theme=tokyonight&hide_border=true" />
 
 </div>
 
