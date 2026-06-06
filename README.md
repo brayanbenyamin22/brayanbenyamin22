@@ -4,13 +4,13 @@
 
 ### Full-stack Developer · Creative Coder · Founder of **BN CODE**
 
-<a href="https://github.com/navamaster507">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Building+modern+and+clean+digital+products;Creating+digital+experiences+with+BN+CODE;Code.+Design.+Impact." alt="Typing SVG" />
+<a href="https://github.com/brayanbenyamin22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Building+modern+and+clean+digital+products;Creating+digital+experiences+with+BN+CODE;GEAR UP.+ENTER THE GRID.+BUILD YOUR LEGEND." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=navamaster507&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=brayanbenyamin22&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -127,9 +127,9 @@ Some of the things I enjoy building:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navamaster507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayanbenyamin22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navamaster507&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanbenyamin22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -137,7 +137,7 @@ Some of the things I enjoy building:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=navamaster507&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=brayanbenyamin22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -169,11 +169,11 @@ const brayan = {
 
 <div align="center">
 
-<a href="https://github.com/navamaster507">
+<a href="https://github.com/brayanbemyamin22">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="mailto:navamaster507@gmail.com">
+<a href="mailto:bncode22@gmail.com">
   <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
 </a>
 
