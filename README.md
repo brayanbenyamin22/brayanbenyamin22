@@ -5,7 +5,7 @@
 ### Full-stack Developer · Creative Coder · Founder of **BN CODE**
 
 <a href="https://github.com/brayanbenyamin22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Building+modern+and+clean+digital+products;Creating+digital+experiences+with+BN+CODE;GEAR UP.+ENTER THE GRID.+BUILD YOUR LEGEND." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Building+modern+and+clean+digital+products;Creating+digital+experiences+with+BN+CODE;GEAR+UP,+ENTER+THE+GRID,+BUILD+YOUR+LEGEND" alt="Typing SVG" />
 </a>
 
 <br/>
