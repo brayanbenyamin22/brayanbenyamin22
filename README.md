@@ -79,7 +79,7 @@ Full-stack developer behind **BN CODE** — building modern, clean, and function
 
 <div align="center">
 
-## ⚡ BN CODE
+## ⚡ BN CODE ⚡ 
 
 ### `GEAR UP, ENTER THE GRID, BUILD YOUR LEGEND`
 
