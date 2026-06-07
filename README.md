@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ HEY, I'M <span style="color: #00F5FF;">BRAYAN NAVARRO</span>
+# ⚡ HEY, I'M <span style="color: #00F5FF;">BRAYAN NAVARRO</span> ⚡ 
 
 <a href="https://github.com/brayanbenyamin22">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-stack+Developer;+Founder+of+BN+CODE;Creating+digital+experiences;GEAR+UP,+ENTER+THE+GRID,+BUILD+YOUR+LEGEND" alt="Typing SVG" />
